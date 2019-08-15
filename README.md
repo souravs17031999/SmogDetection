@@ -53,3 +53,13 @@ Let's go through them one by one:
 * CNN layers : Conv2d(128, 256, 3, padding=1)
 * Pooling layer : MaxPool2d(2, 2)
 * Batch normalization layer : BatchNorm2d(256)
+
+> fc :
+* Linear layers : Linear(256, 128), Linear(128, 10)
+
+## Dropout has been applied in conv4 and linear layer where probability = 0.35 in conv4 and 0.5 in fc.
+
+## Activation functions : 
+mila() activation has been used.
+Activation Mila (@Diganta's new activation)
+https://github.com/digantamisra98/Mila
