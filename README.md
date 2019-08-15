@@ -11,14 +11,14 @@ Images captured by some kind of cam attached to vehicle.
 ## Output from model : 
 Prediction as label '0'(clear view) or '1'(smog detected).
 
-## Data Augmentations
+## Data Augmentations and Transformations
 
 * [transforms.RandomRotation(30),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#RandomRotation)
-  transforms.RandomHorizontalFlip(),
-  transforms.Resize(256),
-  transforms.ColorJitter(0.1),
-  transforms.CenterCrop(224),
-  transforms.ToTensor(),
-  transforms.Normalize([0.485, 0.456, 0.406],
-                      [0.229, 0.224, 0.225])
+  [transforms.RandomHorizontalFlip(),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#RandomHorizontalFlip)
+  [transforms.Resize(256),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#Resize)
+  [transforms.ColorJitter(0.1),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#ColorJitter)
+  [transforms.CenterCrop(224),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#CenterCrop)
+  [transforms.ToTensor(),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#ToTensor)
+  [transforms.Normalize([0.485, 0.456, 0.406],
+                      [0.229, 0.224, 0.225])](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#Normalize)
                              
