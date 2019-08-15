@@ -1,5 +1,5 @@
 # SmogDetection
-REPO FOR GROUP PROJECT : SMOG DETECTION PROJECT 
+REPO FOR GROUP PROJECT SPARC COURSE: SMOG DETECTION PROJECT 
 # Project objective : 
 * Primary goal of the project is to avoid and reduce rate of accidents in self driving vehicles by using this classifier model as one of the key components of the hardware of the vehicle so that the vehicle can automatically detect the smog on the roads/streets (highways) be it in heavy, medium or low traffic in order to adjust it's dynamics like speed, steering rotation, lanes etc. 
 We can use the prediction output labels from the model to interface it with vehicle software to control it's dynamics.
