@@ -72,7 +72,7 @@ https://github.com/digantamisra98/Mila
 
 ## Learning rate (with lr scheduler) :
 * lr schedular = StepLR(optimizer, step_size=10, gamma=0.5)
-* lr = lr=0.001
+* lr = 0.001
 
 ## Epochs : 
 epoch : 50
