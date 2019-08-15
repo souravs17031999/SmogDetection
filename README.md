@@ -6,8 +6,10 @@ We can use the prediction output labels from the model to interface it with vehi
 
 # These are the Descritive summary of model architechture we have implemented and Data augmentations we have applied.
 
-## Input to model : Images captured by some kind of cam attached to vehicle.
-## Output from model : Prediction as label '0'(clear view) or '1'(smog detected).
+## Input to model : 
+Images captured by some kind of cam attached to vehicle.
+## Output from model : 
+Prediction as label '0'(clear view) or '1'(smog detected).
 
 ## Data Augmentations
 
