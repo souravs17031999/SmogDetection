@@ -71,8 +71,8 @@ https://github.com/digantamisra98/Mila
 [CrossEntropyLoss](https://pytorch.org/docs/stable/_modules/torch/nn/modules/loss.html) is used.
 
 ## Learning rate (with lr scheduler) :
-lr schedular = StepLR(optimizer, step_size=10, gamma=0.5)
-lr = lr=0.001
+* lr schedular = StepLR(optimizer, step_size=10, gamma=0.5)
+* lr = lr=0.001
 
 ## Epochs : 
 epoch : 50
@@ -86,8 +86,8 @@ Test Loss:36.734721
 Accuracy: 99.0000
 
 ## Class wise loss :
-Test Accuracy of     0: 98% (389/393)
-Test Accuracy of     1: 98% (378/382)
+* Test Accuracy of     0: 98% (389/393)
+* Test Accuracy of     1: 98% (378/382)
 
 ## Overall testing accuracy : 
 Test Accuracy (Overall): 98% (767/775)
