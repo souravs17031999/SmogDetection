@@ -7,13 +7,13 @@ We can use the prediction output labels from the model to interface it with vehi
 # These are the Descritive summary of model architechture we have implemented and Data augmentations we have applied.
 
 ## Input to model : 
-Images captured by some kind of cam attached to vehicle.
+> Images captured by some kind of cam attached to vehicle.
 ## Output from model : 
-Prediction as label '0'(clear view) or '1'(smog detected).
+> Prediction as label '0'(clear view) or '1'(smog detected).
 
 ## Data Augmentations and Transformations
 
-* > [transforms.RandomRotation(30),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#RandomRotation)
+* [transforms.RandomRotation(30),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#RandomRotation)
   [transforms.RandomHorizontalFlip(),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#RandomHorizontalFlip)
   [transforms.Resize(256),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#Resize)
   [transforms.ColorJitter(0.1),](https://pytorch.org/docs/stable/_modules/torchvision/transforms/transforms.html#ColorJitter)
