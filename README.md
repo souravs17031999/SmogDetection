@@ -1,10 +1,10 @@
 # SmogDetection
-REPO FOR GROUP PROJECT SPARC COURSE: SMOG DETECTION PROJECT 
+REPO FOR TEAM PROJECT SHOWCASE AT SPAIC 2019: SMOG DETECTION PROJECT 
 # Project objective : 
-* Primary goal of the project is to avoid and reduce rate of accidents in self driving vehicles by using this classifier model as one of the key components attached on traffic cams so that the vehicle can automatically be alerted about smog on the roads/streets (highways) be it in heavy, medium or low traffic in order to adjust it's dynamics like speed, steering rotation, lanes etc. 
+* Primary goal of the project is to avoid and reduce rate of accidents in self driving vehicles by using this classifier model as one of the key components attached on traffic cams, so that the vehicle can automatically be alerted about smog on the roads/streets (highways) be it in heavy, medium or low traffic in order to adjust it's dynamics like speed, steering rotation, lanes etc. 
 We can use the prediction output labels from the model to alert the vehicle / driver.
 
-# These are the Descritive summary of model architechture we have implemented and Data augmentations we have applied.
+# This is the descriptive summary of Model Architechture we have implemented and the Data Augmentations we have applied.
 
 ## Input to model : 
 > Images captured by traffic cam.
@@ -26,7 +26,7 @@ We can use the prediction output labels from the model to alert the vehicle / dr
 * [planetEarch_improved.pt](https://www.kaggleusercontent.com/kf/18699045/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..NX3MZVkixkhASIBsP-e0uA.SplTd0njipbzC_x4mF-HsOJiU8ca2ycipZNQ_dxpuzJfhezWWHeE7BGL0JnQ1Ni8xh3YmdWUNubsC-pYVTr20wMeCYV-2Paqe4OvtPCNzpXuAHX23oQF-d5YK6x7ruPPm-7vBTCHvKGQzDW9ZuMXPg.FT_NpgWhdVu3GQnSQzaCJQ/planetEarch_improved.pt)
 
 ## Description of model 
-So, there are five modules which contains deeper sublayers.
+So, there are five modules which contain deeper sublayers.
 Let's go through them one by one:
 
 * CNN layers : 7 
