@@ -1,6 +1,9 @@
 # SmogDetection
 REPO FOR TEAM PROJECT SHOWCASE AT SPAIC 2019: SMOG DETECTION PROJECT AT #sg_planetearth
 # [click here for group repo which contains source code with detailed documentation](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
+
+# [Click here for live showcase on heruko](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
+
 ## You can find my own analysis above in the notebook
 # Project objective : 
 * Smog is a byproduct of the global climate change scenario. As we move further into the industrialized age, Smog continues to pollute our air, reduce visibility on roads and is a leading cause of accidents on roads. The primary goal of the project is to avoid and help reduce rate of accidents in self driving vehicles by using this classifier model as one of the key components attached on traffic cams, so that the vehicle can automatically be alerted about smog on the roads/streets (highways) be it in heavy, medium or low traffic in order to adjust it's dynamics like speed, steering rotation, lanes etc. 
