@@ -1,8 +1,8 @@
 # SmogDetection
 REPO FOR TEAM PROJECT SHOWCASE AT SPAIC 2019: SMOG DETECTION PROJECT AT #sg_planetearth
-# [click here for group repo which contains source code with detailed documentation](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
+# [Click here for group repo which contains source code with detailed documentation](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
 
-# [Click here for live showcase on heruko](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
+# [Click here for live showcase on heruko](http://smog4000.onrender.com)
 
 ## You can find my own analysis above in the notebook
 # Project objective : 
