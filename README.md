@@ -99,6 +99,11 @@ Accuracy: 99.0000
 ## Overall testing accuracy : 
 Test Accuracy (Overall): 98% (767/775)      
 
+## Model working :    
+![smog image](smog.jpg)    
+![clear image](clear.jpg)      
+
+
 ### Contributors:     
 
 No | Name | Slack Handle 
