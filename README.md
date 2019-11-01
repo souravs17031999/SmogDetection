@@ -120,3 +120,5 @@ No | Name | Slack Handle
 > Note: Above folders are just for showcasing type of data used but it's ofcourse not the complete dataset.
 For complete dataset, you can mail me.    
 ## Highlights :    
+* We came 2nd in Udacity's Project Showcase Challenge     
+![mewinning](winner.jpg)
