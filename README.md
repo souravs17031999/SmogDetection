@@ -97,6 +97,24 @@ Accuracy: 99.0000
 * Test Accuracy of     1: 98% (378/382)
 
 ## Overall testing accuracy : 
-Test Accuracy (Overall): 98% (767/775)
+Test Accuracy (Overall): 98% (767/775)      
 
-## Highlights : 
+### Contributors:     
+
+No | Name | Slack Handle 
+--- | --- | ---
+1 | Shudipto Trafder | @Shudipto Trafder
+2 | Berenice Terwey | @Berenice
+3 | Agata Gruza | @Agata [OR, USA]
+4 | Ingus Terbets | @Ingus Terbets
+5 | Akash Antony | @Akash Antony
+6 | Alexander Villasoto | @Alexander Villasoto
+7 | Pooja Vinod | @Pooja Vinod
+8 | Ramkrishna Acharya | @Viper
+9 | Sourav Kumar | @sourav kumar
+10 | George Christopoulos | @George Christopoulos
+11 | Sayed Maheen Basheer | @Sayed Maheen Basheer
+12 | Abhishek Lalwani | @Abhishek Lalwani
+13 | Laura Truncellito | @LauraT     
+
+## Highlights :    
