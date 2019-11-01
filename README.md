@@ -1,11 +1,13 @@
 # SmogDetection
-REPO FOR TEAM PROJECT SHOWCASE AT SPAIC 2019: SMOG DETECTION PROJECT AT #sg_planetearth
+REPO FOR TEAM PROJECT SHOWCASE AT SPAIC 2019: SMOG DETECTION PROJECT AT #sg_planetearth Udacity Secure and Private AI
+
 # [Click here for group repo which contains source code with detailed documentation](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
 
-# [Click here for live showcase on heruko](http://smog4000.onrender.com)
-
 ## You can find my own analysis above in the notebook
-# Project objective : 
+# Problem statement :     
+The sudden appearance of smog and/or fog on the highway more often than not causes serious and sometimes fatal accidents. Smog is the main agent for severe air pollution. It can aggravate health problems including problems with breathing and sleeping, as well as it can inversely damage plants and forest cover.     
+
+# Project objective and solution: 
 * Smog is a byproduct of the global climate change scenario. As we move further into the industrialized age, Smog continues to pollute our air, reduce visibility on roads and is a leading cause of accidents on roads. The primary goal of the project is to avoid and help reduce rate of accidents in self driving vehicles by using this classifier model as one of the key components attached on traffic cams, so that the vehicle can automatically be alerted about smog on the roads/streets (highways) be it in heavy, medium or low traffic in order to adjust it's dynamics like speed, steering rotation, lanes etc. 
 We can use the prediction output labels from the model to alert the vehicle / driver.
 
@@ -96,3 +98,5 @@ Accuracy: 99.0000
 
 ## Overall testing accuracy : 
 Test Accuracy (Overall): 98% (767/775)
+
+## Highlights : 
